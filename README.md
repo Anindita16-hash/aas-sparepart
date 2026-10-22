@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Toko Sparepart & Aksesoris Mobil — Web App (PHP + phpMyAdmin)
 
 Aplikasi sederhana untuk latihan OWASP hardening. PHP + MySQL/phpMyAdmin, Bootstrap CDN.
@@ -85,3 +86,7 @@ Lihat komentar **ADVANCED** di `gateway/callback.php` untuk cara amannya.
 - `CSRF` — token di semua form POST (`csrf_field()` + `cek_csrf()`).
 - **ADVANCED**: database transaction (`beginTransaction`) di kasir/checkout/pembelian
   supaya stok dan pembukuan selalu konsisten.
+=======
+# aas-sparepart
+web hardening project.
+>>>>>>> 7ed7a774daecdd94a5fb0c6d9920b8ebe8445e89

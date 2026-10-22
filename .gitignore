@@ -1,0 +1,35 @@
+# Dependencies
+node_modules/
+/vendor/
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+
+# IDE settings
+.vscode/
+.idea/
+
+# Build output
+dist/
+build/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.bak
+
+# Database backups
+*.sql
+*.sql.gz
+
+# Cache
+/cache/
+/tmp/
